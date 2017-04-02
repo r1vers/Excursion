@@ -1,20 +1,22 @@
 body {
-  font-family: "Verdana; sans-serif";
-  color: "white";
-  background-color: "black";
-  text-align: "centered";
+  font-family: Verdana, sans-serif;
+  color: white;
+  background-color: black;
+  text-align: center;
 }
 h1 {
-  font-size="50px";
+  font-size: 50px;
+  font-weight: normal;
 }
 h2 {
-  font-size="42px";
-  font-weight="300";
+  font-size: 42px;
+  font-weight: 300;
 }
 p {
-  color: "gray"
+  color: gray;
+  font-size: 21px;
 }
 .link {
-  color: "aquamarine";
-  font-size: "16px";
+  color: Aquamarine;
+  font-size: 16px;
 }
